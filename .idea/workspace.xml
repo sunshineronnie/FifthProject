@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acd2127a-e625-4890-b0cd-4f67fb7149ef" name="Changes" comment="" />
+    <list default="true" id="acd2127a-e625-4890-b0cd-4f67fb7149ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/skypro/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/skypro/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectId" id="27bSfMcSPvfrskqakvi8MKBwNNA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -81,11 +85,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="acd2127a-e625-4890-b0cd-4f67fb7149ef" name="Changes" comment="" />
       <created>1649587399957</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649587399957</updated>
+      <workItem from="1649587414976" duration="295000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
